@@ -15,7 +15,14 @@
                 "js/load-image-meta.js",
                 "js/load-image-orientation.js",
                 "js/load-image.all.min.js",
-                "js/load-image.js"
+                "js/load-image.js",
+                "js/vendor/jquery.Jcrop.js"
+            ],
+            "styles": [
+                "css/vendor/jquery.Jcrop.css"
+            ],
+            "files": [
+                "css/vendor/loading.gif"
             ]
         }
     }
